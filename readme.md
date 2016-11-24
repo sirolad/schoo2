@@ -22,7 +22,7 @@
 
 ## Testing
 ``` bash
-$ vendor/bin/phpunit test
+phpunit tests
 ```
 
 ## Credits
